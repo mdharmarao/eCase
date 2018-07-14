@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17321" started-at="2018-06-28T16:38:51Z" finished-at="2018-06-28T16:39:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17321" started-at="2018-06-28T16:38:51Z" finished-at="2018-06-28T16:39:08Z">
+      <class name="Com.eCase.qa.TestCases.test1">
+        <test-method status="PASS" signature="init()[pri:0, instance:Com.eCase.qa.TestCases.test1@612679d6]" name="init" duration-ms="17296" started-at="2018-06-28T16:38:51Z" finished-at="2018-06-28T16:39:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- Com.eCase.qa.TestCases.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
